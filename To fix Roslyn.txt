@@ -1,0 +1,7 @@
+1.
+	Git shell
+	git add -f "**/*.*.refresh"
+	git commit -m "force updated refresh files"
+
+2.
+	Toos>NuGet Package Manager> Package Manager Console update-package MIcrosoft.CodeDom.Providers.DotNetCompilerPlatform -r
